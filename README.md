@@ -17,6 +17,7 @@ The MIP model is implemented using OPL and is found under the "models" folder.
 
 The experimental data used in the paper (both initial and updated problem versions) as well as the results can be found under the "experiments" folder.
 
+### Paper and Citation
 
 If you wish to cite this work, please use the following reference:
 
