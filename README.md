@@ -21,5 +21,4 @@ The experimental data used in the paper (both initial and updated problem versio
 
 If you wish to cite this work, please use the following reference:
 
-Garcia, C. (In Press), "Adaptive virtual team planning and coordination: a mathematical programming approach", forthcoming in the *Journal of Modelling in Management*, 
-https://doi.org/10.1108/JM2-03-2024-0070
+Garcia, C. (2025), ["Adaptive virtual team planning and coordination: a mathematical programming approach"](https://doi.org/10.1108/JM2-03-2024-0070), *Journal of Modelling in Management*, Vol. 20, No. 1, pp. 238-257.
